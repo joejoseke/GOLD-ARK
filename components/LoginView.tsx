@@ -30,7 +30,7 @@ const LoginView: React.FC<LoginViewProps> = ({ onLogin }) => {
     <div className="flex items-center justify-center min-h-screen bg-surface-main dark:bg-surface-dark text-text-main dark:text-text-dark-main p-4">
       <div className="w-full max-w-sm">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-brand-primary dark:text-brand-light">Neon Online POS</h1>
+          <h1 className="text-3xl font-bold text-brand-primary dark:text-brand-light">Gold Ark Restaurant</h1>
           <p className="text-text-secondary dark:text-text-dark-secondary">Please sign in to continue</p>
         </div>
         

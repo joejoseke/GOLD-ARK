@@ -48,7 +48,7 @@ export function printTicket(ticket: Ticket, isReceipt: boolean): void {
       </head>
       <body>
         <div class="header">
-          <h1>Tribal Bistro</h1>
+          <h1>Gold Ark Restaurant</h1>
           <p>Cafe & Restaurant</p>
           <p>Nairobi, Kenya</p>
         </div>
